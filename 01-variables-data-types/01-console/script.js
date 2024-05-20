@@ -36,8 +36,8 @@ console.error('Questo è un errore');
 console.warn('Questo è un avvertimento');
 console.groupEnd;
 
-// Aggiungere css nella console 
+// Aggiungere css nella console, inserisci %c nella stringa e poi , e successimante lo stile
 
-const style = 'padding: 10px; background-color: #101010; border-radius: 20px; font-family: sans-serif; color: black'
+const style = 'padding: 10px; background-color: #000000; border-radius: 50%; font-family: sans-serif; color: red; font-weight: 800;'
 
-console.log('%cCiao mondino');
+console.log('%cCiao mondino', style);
