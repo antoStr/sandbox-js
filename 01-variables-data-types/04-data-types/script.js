@@ -19,9 +19,42 @@ Reference Types = Objects
 Sono valori che assegnamo ad un valore non primitivo come una variabile oppure un array, funzioni etc.
 */
 
+
+// Stringa
 const nome = 'Ciccio';
 
-const output = nome
+// Numero
+const age = 21;
+const temp = 22.1;
+
+// Boolean
+const hasKids = false;
+
+// Null
+const aptNumber = null;
+
+// Undefined
+// let score;
+const score = undefined;
+
+// Symbol
+const id = Symbol('id');
+
+// BigInt
+const n = 288923793287n;
+
+// Reference Types
+const numbers = [1, 2, 3, 4]
+
+const person = {
+    nome: 'Gigio',
+};
+
+function sayHello() {
+    console.log('Hello');
+};
+
+const output = sayHello;
 
 // aggiungo type of per verificare che tipo di cacata è
 
