@@ -2,9 +2,11 @@
 
 **Instructions**:
 
-Take the variable `myString` and capitalize the first letter of the word using some of the methods that we talked about in the last video. Put the result in a variable called `myNewString`.
+(ENG) Take the variable `myString` and capitalize the first letter of the word using some of the methods that we talked about in the last video. Put the result in a variable called `myNewString`.
 
 Create multiple solutions if you would like.
+
+(ITA) Prendete la variabile `myString` e capitalizzate la prima lettera della parola usando alcuni dei metodi di cui abbiamo parlato nell'ultimo video. Mettete il risultato in una variabile chiamata `myNewString`.
 
 **Expected Result:**
 
@@ -14,15 +16,17 @@ const myString = 'developer';
 console.log(myNewString); // 'Developer'
 ```
 
-**Hints:**
-
-1. You can use the `charAt()` method as well as `string[index]` to get the character at a specific index.
-2. The `.toUpperCase()` method will make the entire string uppercase
-3. `substring()` or `slice()` will return a specific portion of a string
 
 <details>
   <summary>Click For Solution</summary>
   
+  **Hints:**
+
+  1. You can use the `charAt()` method as well as `string[index]` to get the character at a specific index.
+  2. The `.toUpperCase()` method will make the entire string uppercase
+  3. `substring()` or `slice()` will return a specific portion of a string
+
+
   There are many ways to do this. Let's take a look at a few
 
 ```JavaScript
