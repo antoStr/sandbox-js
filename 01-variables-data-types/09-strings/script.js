@@ -71,6 +71,12 @@ x = s.split(' ');       // ci divide le robe in array tramite l'argomento
 x = s.split('');
 
 
+// IMPORTANTE
+
+/* POSSO USARE PIU' METODI METTENDO UN PUNTO ALLA FINE TIPO:
+ const myNewString = myString.toUpperCase().substring(0,1) + myString.substring(1);
+*/
+
 
 
 

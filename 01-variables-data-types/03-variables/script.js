@@ -46,11 +46,11 @@ arr.push(5);
 console.log(arr);
 
 const person = {
-    name: 'Gigio'
+    name: 'Gigio',
 };
 
 person.name = 'Giano';
-person.email = 'gigino.gigetto@sottoaletto.oof'
+person.email = 'gigino.gigetto@sottoaletto.oof';
 
 console.log(person);
 
