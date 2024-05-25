@@ -18,7 +18,8 @@ console.log(outProd);
 
 //Divisione
 const div = x / y;
-const outDiv  = `${x} / ${y} = ${div}`;
+const divRound = div.toFixed(2);
+const outDiv  = `${x} / ${y} = ${divRound}`;
 console.log(outDiv);
 
 //Percentuale
