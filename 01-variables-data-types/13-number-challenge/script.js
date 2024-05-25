@@ -4,27 +4,27 @@ y = Math.floor(Math.random() * 50 + 1);
 //Somma
 const somma = x + y;
 const outSomma  = `${x} + ${y} = ${somma}`;
-console.log(outSomma)
+console.log(outSomma);
 
 //differenza
 const diff = x - y;
 const outDiff  = `${x} - ${y} = ${diff}`;
-console.log(outDiff)
+console.log(outDiff);
 
 //Prodotto
 const prod = x * y;
 const outProd  = `${x} * ${y} = ${prod}`;
-console.log(outProd)
+console.log(outProd);
 
 //Divisione
 const div = x / y;
 const outDiv  = `${x} / ${y} = ${div}`;
-console.log(outDiv)
+console.log(outDiv);
 
 //Percentuale
 const perc = x % y;
 const outPerc  = `${x} % ${y} = ${perc}`;
-console.log(outPerc)
+console.log(outPerc);
 
 
 /*
