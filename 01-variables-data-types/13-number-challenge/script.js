@@ -1,5 +1,5 @@
-x = Math.floor(Math.random() * 100 + 1);
-y = Math.floor(Math.random() * 50 + 1);
+const x = Math.floor(Math.random() * 100 + 1);
+const y = Math.floor(Math.random() * 50 + 1);
 
 //Somma
 const somma = x + y;
