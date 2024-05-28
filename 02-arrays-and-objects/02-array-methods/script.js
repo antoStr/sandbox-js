@@ -2,7 +2,7 @@ let x;
 const arr = [1, 2, 3, 4, 5];
 
 // Aggiungere in un array
-arr.push(100, 'ciaoarr.pop();');
+arr.push(100);
 
 // Eliminare ultimo elemento
 arr.pop();
