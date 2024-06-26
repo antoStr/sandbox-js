@@ -13,8 +13,11 @@ const person = {
     hobbies: ['music', 'sport'],
 }
 
+
+// accesso ai dettagli
 x = person.name;
 x = person['age'];
+x = person.address.state;
 x = person.hobbies[0];
 
 // aggiornamento nome ed admin
