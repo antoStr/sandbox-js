@@ -16,6 +16,50 @@ Destructure the title from the first book and rename the variable to `firstBook`
 
 Turn the library object into a JSON string
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <details>
   <summary>Click For Solution</summary>
 
